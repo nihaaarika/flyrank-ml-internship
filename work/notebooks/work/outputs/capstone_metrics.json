@@ -1,0 +1,6 @@
+{
+    "baseline_accuracy": 1.0,
+    "naive_model_accuracy": 1.0,
+    "honest_grouped_accuracy": 1.0,
+    "f1_score": 1.0
+}
